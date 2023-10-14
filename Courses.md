@@ -14,6 +14,8 @@ CSS Animations and Transitions - https://frontendmasters.com/courses/css-animati
 
 Sass Fundamentals: https://frontendmasters.com/courses/sass/
 
+CSS Projects: https://frontendmasters.com/courses/css-projects/
+
 ### CSS Extras
 
 Design for Developers: https://frontendmasters.com/courses/design-for-developers/
@@ -71,6 +73,10 @@ Making TypeScript Stick: https://frontendmasters.com/courses/typescript-practice
 Production-Grade TypeScript: https://frontendmasters.com/courses/production-typescript/
 
 # Etc
+
+- More on git:
+  - https://app.pluralsight.com/library/courses/master-git
+  - https://app.pluralsight.com/library/courses/git-branches-working
 
 Introduction to Dev Tools, v3: https://frontendmasters.com/courses/dev-tools/
 
