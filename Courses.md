@@ -94,3 +94,5 @@ JavaScript Performance: https://frontendmasters.com/courses/web-performance/
 
 Visual Studio Code: https://frontendmasters.com/courses/visual-studio-code/
 Visual Studio Code Can Do That?: https://frontendmasters.com/courses/customize-vs-code/
+
+Electron, v3: https://frontendmasters.com/courses/electron-v3/

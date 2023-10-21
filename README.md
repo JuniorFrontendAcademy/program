@@ -26,10 +26,8 @@
 - ??? (M)
 - ??? (E)
 - Implement the Pet Store project
-- Create a pull request from `vanillajs` to `master`
-- Loop
-  - Get a review
-  - Implement feedback
+- Create a pull request from `vanillajs` to `main`
+- Complete review / feedback loop
 
 ## Learning React & TypeScript
 
