@@ -42,6 +42,7 @@ Web Components: https://frontendmasters.com/courses/web-components/
 
 Deep JavaScript Foundations, v3 - https://frontendmasters.com/courses/deep-javascript-v3/
 The Hard Parts of UI Development: https://frontendmasters.com/courses/hard-parts-ui-dev/
+Bare Metal JavaScript: The JavaScript Virtual Machine: https://frontendmasters.com/courses/javascript-cpu-vm/
 JavaScript: The Hard Parts, v2: https://frontendmasters.com/courses/javascript-hard-parts-v2/
 The Hard Parts of Functional JavaScript: https://frontendmasters.com/courses/functional-js-fundamentals/
 Functional-Light JavaScript, v3: https://frontendmasters.com/courses/functional-javascript-v3/
