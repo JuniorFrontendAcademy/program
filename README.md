@@ -56,4 +56,11 @@
 - Watch the React and TypeScript course
   - React and TypeScript: https://frontendmasters.com/courses/react-typescript-v2/
 
-## Pet Store - React (hooks)
+## Pet Store - React (with hooks)
+
+- Create a branch named `react-hooks`
+- Contain your implementation to the `pet-store-react-hooks` directory
+- Read `pet-store-react-hooks/README.md`
+- Implement the Pet Store project using React with hooks
+- Create a pull request from `react-hooks` to `main`
+- Complete review / feedback loop
