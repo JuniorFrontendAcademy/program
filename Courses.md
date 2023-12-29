@@ -68,8 +68,9 @@ React Performance: https://frontendmasters.com/courses/react-performance/
 
 # TypeScript
 
-TypeScript Fundamentals, v3: https://frontendmasters.com/courses/typescript-v3/
-Intermediate TypeScript: https://frontendmasters.com/courses/intermediate-typescript/
+TypeScript 5+ Fundamentals, v4: https://frontendmasters.com/courses/typescript-v4/
+Intermediate TypeScript, v2: https://frontendmasters.com/courses/intermediate-typescript-v2/
+Enterprise TypeScript: https://frontendmasters.com/courses/enterprise-typescript/
 Making TypeScript Stick: https://frontendmasters.com/courses/typescript-practice/
 Production-Grade TypeScript: https://frontendmasters.com/courses/production-typescript/
 
