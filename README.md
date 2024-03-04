@@ -4,11 +4,16 @@
 
 ## Intro
 
-### Source Control - Git
+### Source Control and Git
 
-- Watch this course:
+- Git courses:
+  - Mastering Git: https://app.pluralsight.com/library/courses/how-git-works
+  - How Git Works: https://app.pluralsight.com/library/courses/master-git
+  - Git Configuration and Attributes - https://app.pluralsight.com/library/courses/git-configuration-attributes
+- GitHub courses:
 
-  - https://app.pluralsight.com/library/courses/how-git-works/table-of-contents
+  - GitHub Fundamentals: https://app.pluralsight.com/library/courses/fundamentals-github
+  - GitHub Pull Requests from Start to Finish: https://app.pluralsight.com/library/courses/github-pull-requests-from-start-finish
 
 - Read the commit messages guidelines
   - https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
@@ -58,9 +63,42 @@
 
 ## Pet Store - React (with hooks)
 
-- Create a branch named `react-hooks`
+- Create a branch named `react-hooks` from `main`
 - Contain your implementation to the `pet-store-react-hooks` directory
 - Read `pet-store-react-hooks/README.md`
 - Implement the Pet Store project using React with hooks
-- Create a pull request from `react-hooks` to `main`
-- Complete review / feedback loop
+  - List of pets
+  - Create a pull request from `react-hooks` to `main`
+  - Complete review / feedback loop
+  - Do the same with
+    - Delete a pet
+    - Add / Edit pet
+
+## Testing preparation
+
+- Accessibility courses
+  - Website Accessibility: https://frontendmasters.com/workshops/accessibility-v3/
+  - Enterprise Accessibility: https://frontendmasters.com/workshops/enterprise-accessibility/
+
+- Testing courses
+  - React Testing Library with Jest / Vitest: https://www.udemy.com/course/react-testing-library/
+  - MSW: https://egghead.io/courses/mock-rest-and-graphql-apis-with-mock-service-worker-8d471ece
+
+- Docs
+  - Testing Library docs: https://testing-library.com/docs/
+    - Getting Started
+    - Core API
+    - Frameworks
+      - DOM Testing Library
+      - React Testing Library
+    - User Interactions
+    - Ecosystem
+
+## Pet Store - Testing with Jest & RTL
+- Create a branch named `react-hooks-tests` from `main`
+- Compile a list of tests for the "List of pets" part of the application
+- Create a pull request from `react-hooks-tests` to `main`
+- Implement the tests
+- Do the same with
+    - Delete a pet
+    - Add / Edit pet

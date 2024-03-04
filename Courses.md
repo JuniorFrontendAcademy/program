@@ -16,6 +16,8 @@ Sass Fundamentals: https://frontendmasters.com/courses/sass/
 
 CSS Projects: https://frontendmasters.com/courses/css-projects/
 
+Tailwind CSS: https://frontendmasters.com/courses/tailwind-css/
+
 ### CSS Extras
 
 Design for Developers: https://frontendmasters.com/courses/design-for-developers/
@@ -49,6 +51,7 @@ Functional-Light JavaScript, v3: https://frontendmasters.com/courses/functional-
 JavaScript: The Recent Parts: https://frontendmasters.com/courses/js-recent-parts/
 The Hard Parts of Object Oriented JavaScript: https://frontendmasters.com/courses/object-oriented-js/
 Rethinking Asynchronous JavaScript: https://frontendmasters.com/courses/rethinking-async-js/
+Blazingly Fast JavaScript: https://frontendmasters.com/courses/blazingly-fast-js/
 
 # Testing
 
@@ -98,3 +101,5 @@ Visual Studio Code: https://frontendmasters.com/courses/visual-studio-code/
 Visual Studio Code Can Do That?: https://frontendmasters.com/courses/customize-vs-code/
 
 Electron, v3: https://frontendmasters.com/courses/electron-v3/
+
+Vite: https://frontendmasters.com/courses/vite/
