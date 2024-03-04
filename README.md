@@ -77,10 +77,12 @@
 ## Testing preparation
 
 - Accessibility courses
+
   - Website Accessibility: https://frontendmasters.com/workshops/accessibility-v3/
   - Enterprise Accessibility: https://frontendmasters.com/workshops/enterprise-accessibility/
 
 - Testing courses
+
   - React Testing Library with Jest / Vitest: https://www.udemy.com/course/react-testing-library/
   - MSW: https://egghead.io/courses/mock-rest-and-graphql-apis-with-mock-service-worker-8d471ece
 
@@ -95,10 +97,11 @@
     - Ecosystem
 
 ## Pet Store - Testing with Jest & RTL
+
 - Create a branch named `react-hooks-tests` from `main`
 - Compile a list of tests for the "List of pets" part of the application
 - Create a pull request from `react-hooks-tests` to `main`
 - Implement the tests
 - Do the same with
-    - Delete a pet
-    - Add / Edit pet
+  - Delete a pet
+  - Add / Edit pet
