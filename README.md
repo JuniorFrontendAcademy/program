@@ -112,12 +112,12 @@
 
 ## Pet Store - React & Redux
 
-- Create a branch named `react-redux` from `main`
-- Contain your implementation to the `pet-store-react-redux` directory
-- Read `pet-store-react-redux/README.md`
+- Create a branch named `react-hooks-redux` from `main`
+- Contain your implementation to the `pet-store-react-hooks-redux` directory
+- Read `pet-store-react-hooks-redux/README.md`
 - Implement the Pet Store project using React and Redux
   - List of pets
-  - Create a pull request from `react-redux` to `main`
+  - Create a pull request from `react-hooks-redux` to `main`
   - Complete review / feedback loop
   - Do the same with
     - Delete a pet
