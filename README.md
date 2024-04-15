@@ -105,3 +105,20 @@
 - Do the same with
   - Delete a pet
   - Add / Edit pet
+
+## Learning Redux and Redux Toolkit
+- Redux Fundamentals (feat. React) - https://frontendmasters.com/courses/redux-fundamentals
+- Advanced Redux with Redux Toolkit - https://frontendmasters.com/courses/advanced-redux
+
+## Pet Store - React & Redux
+
+- Create a branch named `react-redux` from `main`
+- Contain your implementation to the `pet-store-react-redux` directory
+- Read `pet-store-react-redux/README.md`
+- Implement the Pet Store project using React and Redux
+  - List of pets
+  - Create a pull request from `react-redux` to `main`
+  - Complete review / feedback loop
+  - Do the same with
+    - Delete a pet
+    - Add / Edit pet
