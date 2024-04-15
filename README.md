@@ -49,8 +49,8 @@
 
 - Watch the TypeScript courses
 
-  - TypeScript Fundamentals: https://frontendmasters.com/courses/typescript-v3/
-  - Intermediate TypeScript: https://frontendmasters.com/courses/intermediate-typescript/
+  - TypeScript Fundamentals: https://frontendmasters.com/courses/typescript-v4/
+  - Intermediate TypeScript: https://frontendmasters.com/courses/intermediate-typescript-v2/
   - Making TypeScript Stick: https://frontendmasters.com/courses/typescript-practice/
   - Production-Grade TypeScript: https://frontendmasters.com/courses/production-typescript/
 
