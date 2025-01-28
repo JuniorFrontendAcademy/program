@@ -75,7 +75,7 @@
 * Intermediate TypeScript, v2: https://frontendmasters.com/courses/intermediate-typescript-v2/
 * Enterprise TypeScript: https://frontendmasters.com/courses/enterprise-typescript/
 * Making TypeScript Stick: https://frontendmasters.com/courses/typescript-practice/
-Production-Grade TypeScript: https://frontendmasters.com/courses/production-typescript/
+* Production-Grade TypeScript: https://frontendmasters.com/courses/production-typescript/
 
 # Etc
 
