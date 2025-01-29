@@ -1,4 +1,5 @@
 # Courses
+
 ## Docker
 * All courses from the "Docker Fundamentals" section - https://app.pluralsight.com/paths/skill/docker-fundamentals-for-developers
 * Relevant courses from the "Language Specific Content" section - https://app.pluralsight.com/paths/skill/docker-fundamentals-for-developers
@@ -6,9 +7,13 @@
 * Docker Deep Dive - https://app.pluralsight.com/library/courses/docker-deep-dive-2023/table-of-contents
 
 ## Node.js
+- TBD
 
 ## Databases
-### MongoDB
-### PostgreSQL
-### SQL Server
 
+### MongoDB
+- TBD
+### PostgreSQL
+- TBD
+### SQL Server
+- TBD
