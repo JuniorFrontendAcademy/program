@@ -1,7 +1,6 @@
 # Courses
 
 ## Docker
-* Getting Started with Docker - https://app.pluralsight.com/library/courses/docker-getting-started-2023/table-of-contents
 * Docker Deep Dive - https://app.pluralsight.com/library/courses/docker-deep-dive-2023/table-of-contents
 * Building and Orchestrating Containers with Docker Compose - https://app.pluralsight.com/library/courses/docker-compose-building-orchestrating-containers/table-of-contents
 * Developing Node.js Apps with Docker - https://app.pluralsight.com/library/courses/nodejs-docker-developing-apps/table-of-contents
