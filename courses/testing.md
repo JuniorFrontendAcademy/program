@@ -23,4 +23,5 @@
 
 - Playwright
   - Playwright JS/TS Automation Testing from Scratch & Framework - https://www.udemy.com/course/playwright-tutorials-automation-testing
+  - Playwright Foundations with Node.js - https://app.pluralsight.com/library/courses/playwright-nodejs-fundamentals/table-of-contents
   - Playwright Docs - https://playwright.dev/
