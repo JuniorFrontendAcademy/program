@@ -107,6 +107,7 @@
   - Add / Edit pet
 
 ## Learning Redux and Redux Toolkit
+
 - Redux Fundamentals (feat. React) - https://frontendmasters.com/courses/redux-fundamentals
 - Advanced Redux with Redux Toolkit - https://frontendmasters.com/courses/advanced-redux
 
