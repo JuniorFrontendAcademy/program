@@ -12,3 +12,7 @@
 - [TypeScript](./typescript.md)
 - [Nginx](./nginx.md)
 - [Backend](./backend.md)
+- [Accessibility](./accessibility.md)
+- [Testing](./testing.md)
+- [Linux](./linux.md)
+- [Networking](./networking.md)

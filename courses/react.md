@@ -12,3 +12,8 @@
 
 - Redux Fundamentals (feat. React): https://frontendmasters.com/courses/redux-fundamentals/
 - Advanced Redux with Redux Toolkit: https://frontendmasters.com/courses/advanced-redux/
+
+## Docs
+
+- New Docs - https://react.dev/
+- Legacy Docs - https://legacy.reactjs.org/
