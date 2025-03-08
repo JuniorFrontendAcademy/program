@@ -1,5 +1,4 @@
 # Source Control
-
 ### Git
   - Mastering Git: https://app.pluralsight.com/library/courses/how-git-works
   - How Git Works: https://app.pluralsight.com/library/courses/master-git
