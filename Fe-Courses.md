@@ -1,4 +1,4 @@
-# Courses
+# Front End Courses
 
 ## CSS
 
