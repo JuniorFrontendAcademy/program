@@ -7,6 +7,7 @@
 ## Docs
 
 - Handbook & Reference - https://www.typescriptlang.org/docs/handbook/intro.html
+  - Up to and including "Iterators and Generators"
 
 ## Advanced
 
