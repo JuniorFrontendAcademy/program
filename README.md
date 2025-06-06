@@ -7,8 +7,8 @@
 ### Source Control and Git
 
 - Git courses:
-  - Mastering Git: https://app.pluralsight.com/library/courses/how-git-works
-  - How Git Works: https://app.pluralsight.com/library/courses/master-git
+  - Mastering Git: https://app.pluralsight.com/library/courses/master-git
+  - How Git Works: https://app.pluralsight.com/library/courses/how-git-works
   - Git Configuration and Attributes - https://app.pluralsight.com/library/courses/git-configuration-attributes
 - GitHub courses:
 
