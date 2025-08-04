@@ -1,7 +1,7 @@
 # React
 
 - Complete Intro to React, v9: https://frontendmasters.com/courses/complete-react-v9/
-- Intermediate React, v5: https://frontendmasters.com/courses/intermediate-react-v5/
+- Intermediate React, v6: https://frontendmasters.com/courses/intermediate-react-v6/
 - React Performance: https://frontendmasters.com/courses/react-performance/
 
 ### TypeScript
